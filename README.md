@@ -52,6 +52,7 @@ Navigate to the project directory:cd election-analysis
 
 ## Results
 Summarize the key findings and insights obtained from the analysis and visualizations. Include any notable trends, patterns, or conclusions.
+
 <img width="509" alt="image" src="https://github.com/Haripurnachandrapavansaii/loksabha_Election_analysis_india_2024/assets/126078570/38f0587d-af60-454f-8414-e4dc860065df">
 <img width="508" alt="image" src="https://github.com/Haripurnachandrapavansaii/loksabha_Election_analysis_india_2024/assets/126078570/1bc23a09-c5cd-4a81-877b-798bb99c68f7">
 
