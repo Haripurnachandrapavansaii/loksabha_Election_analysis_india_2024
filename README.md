@@ -4,6 +4,8 @@ This is a project for analyzing the election data 2024 india. It is a task given
 
 This repository contains analysis and visualization of election data using Python and Power BI.
 
+To view my power bi dashboards click on folders named powerbielection1.ipbx and powerbielection1.ipbx then click on view raw it will redirect to the powerbidesktop.
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
